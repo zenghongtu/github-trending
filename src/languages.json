@@ -1,0 +1,2750 @@
+[
+  {
+    "name": "1C Enterprise",
+    "urlParam": "1c-enterprise"
+  },
+  {
+    "name": "2-Dimensional Array",
+    "urlParam": "2-dimensional-array"
+  },
+  {
+    "name": "4D",
+    "urlParam": "4d"
+  },
+  {
+    "name": "ABAP",
+    "urlParam": "abap"
+  },
+  {
+    "name": "ABAP CDS",
+    "urlParam": "abap-cds"
+  },
+  {
+    "name": "ABNF",
+    "urlParam": "abnf"
+  },
+  {
+    "name": "ActionScript",
+    "urlParam": "actionscript"
+  },
+  {
+    "name": "Ada",
+    "urlParam": "ada"
+  },
+  {
+    "name": "Adblock Filter List",
+    "urlParam": "adblock-filter-list"
+  },
+  {
+    "name": "Adobe Font Metrics",
+    "urlParam": "adobe-font-metrics"
+  },
+  {
+    "name": "Agda",
+    "urlParam": "agda"
+  },
+  {
+    "name": "AGS Script",
+    "urlParam": "ags-script"
+  },
+  {
+    "name": "AIDL",
+    "urlParam": "aidl"
+  },
+  {
+    "name": "AL",
+    "urlParam": "al"
+  },
+  {
+    "name": "Alloy",
+    "urlParam": "alloy"
+  },
+  {
+    "name": "Alpine Abuild",
+    "urlParam": "alpine-abuild"
+  },
+  {
+    "name": "Altium Designer",
+    "urlParam": "altium-designer"
+  },
+  {
+    "name": "AMPL",
+    "urlParam": "ampl"
+  },
+  {
+    "name": "AngelScript",
+    "urlParam": "angelscript"
+  },
+  {
+    "name": "Ant Build System",
+    "urlParam": "ant-build-system"
+  },
+  {
+    "name": "Antlers",
+    "urlParam": "antlers"
+  },
+  {
+    "name": "ANTLR",
+    "urlParam": "antlr"
+  },
+  {
+    "name": "ApacheConf",
+    "urlParam": "apacheconf"
+  },
+  {
+    "name": "Apex",
+    "urlParam": "apex"
+  },
+  {
+    "name": "API Blueprint",
+    "urlParam": "api-blueprint"
+  },
+  {
+    "name": "APL",
+    "urlParam": "apl"
+  },
+  {
+    "name": "Apollo Guidance Computer",
+    "urlParam": "apollo-guidance-computer"
+  },
+  {
+    "name": "AppleScript",
+    "urlParam": "applescript"
+  },
+  {
+    "name": "Arc",
+    "urlParam": "arc"
+  },
+  {
+    "name": "AsciiDoc",
+    "urlParam": "asciidoc"
+  },
+  {
+    "name": "ASL",
+    "urlParam": "asl"
+  },
+  {
+    "name": "ASN.1",
+    "urlParam": "asn.1"
+  },
+  {
+    "name": "Classic ASP",
+    "urlParam": "classic-asp"
+  },
+  {
+    "name": "ASP.NET",
+    "urlParam": "asp.net"
+  },
+  {
+    "name": "AspectJ",
+    "urlParam": "aspectj"
+  },
+  {
+    "name": "Assembly",
+    "urlParam": "assembly"
+  },
+  {
+    "name": "Astro",
+    "urlParam": "astro"
+  },
+  {
+    "name": "Asymptote",
+    "urlParam": "asymptote"
+  },
+  {
+    "name": "ATS",
+    "urlParam": "ats"
+  },
+  {
+    "name": "Augeas",
+    "urlParam": "augeas"
+  },
+  {
+    "name": "AutoHotkey",
+    "urlParam": "autohotkey"
+  },
+  {
+    "name": "AutoIt",
+    "urlParam": "autoit"
+  },
+  {
+    "name": "Avro IDL",
+    "urlParam": "avro-idl"
+  },
+  {
+    "name": "Awk",
+    "urlParam": "awk"
+  },
+  {
+    "name": "Ballerina",
+    "urlParam": "ballerina"
+  },
+  {
+    "name": "BASIC",
+    "urlParam": "basic"
+  },
+  {
+    "name": "Batchfile",
+    "urlParam": "batchfile"
+  },
+  {
+    "name": "Beef",
+    "urlParam": "beef"
+  },
+  {
+    "name": "Befunge",
+    "urlParam": "befunge"
+  },
+  {
+    "name": "Berry",
+    "urlParam": "berry"
+  },
+  {
+    "name": "BibTeX",
+    "urlParam": "bibtex"
+  },
+  {
+    "name": "Bicep",
+    "urlParam": "bicep"
+  },
+  {
+    "name": "Bikeshed",
+    "urlParam": "bikeshed"
+  },
+  {
+    "name": "Bison",
+    "urlParam": "bison"
+  },
+  {
+    "name": "BitBake",
+    "urlParam": "bitbake"
+  },
+  {
+    "name": "Blade",
+    "urlParam": "blade"
+  },
+  {
+    "name": "BlitzBasic",
+    "urlParam": "blitzbasic"
+  },
+  {
+    "name": "BlitzMax",
+    "urlParam": "blitzmax"
+  },
+  {
+    "name": "Bluespec",
+    "urlParam": "bluespec"
+  },
+  {
+    "name": "Boo",
+    "urlParam": "boo"
+  },
+  {
+    "name": "Boogie",
+    "urlParam": "boogie"
+  },
+  {
+    "name": "Brainfuck",
+    "urlParam": "brainfuck"
+  },
+  {
+    "name": "BrighterScript",
+    "urlParam": "brighterscript"
+  },
+  {
+    "name": "Brightscript",
+    "urlParam": "brightscript"
+  },
+  {
+    "name": "Zeek",
+    "urlParam": "zeek"
+  },
+  {
+    "name": "Browserslist",
+    "urlParam": "browserslist"
+  },
+  {
+    "name": "C",
+    "urlParam": "c"
+  },
+  {
+    "name": "C#",
+    "urlParam": "c%23"
+  },
+  {
+    "name": "C++",
+    "urlParam": "c++"
+  },
+  {
+    "name": "C-ObjDump",
+    "urlParam": "c-objdump"
+  },
+  {
+    "name": "C2hs Haskell",
+    "urlParam": "c2hs-haskell"
+  },
+  {
+    "name": "Cabal Config",
+    "urlParam": "cabal-config"
+  },
+  {
+    "name": "Cadence",
+    "urlParam": "cadence"
+  },
+  {
+    "name": "Cairo",
+    "urlParam": "cairo"
+  },
+  {
+    "name": "CameLIGO",
+    "urlParam": "cameligo"
+  },
+  {
+    "name": "CAP CDS",
+    "urlParam": "cap-cds"
+  },
+  {
+    "name": "Cap'n Proto",
+    "urlParam": "cap'n-proto"
+  },
+  {
+    "name": "CartoCSS",
+    "urlParam": "cartocss"
+  },
+  {
+    "name": "Ceylon",
+    "urlParam": "ceylon"
+  },
+  {
+    "name": "Chapel",
+    "urlParam": "chapel"
+  },
+  {
+    "name": "Charity",
+    "urlParam": "charity"
+  },
+  {
+    "name": "Checksums",
+    "urlParam": "checksums"
+  },
+  {
+    "name": "ChucK",
+    "urlParam": "chuck"
+  },
+  {
+    "name": "CIL",
+    "urlParam": "cil"
+  },
+  {
+    "name": "Cirru",
+    "urlParam": "cirru"
+  },
+  {
+    "name": "Clarion",
+    "urlParam": "clarion"
+  },
+  {
+    "name": "Clarity",
+    "urlParam": "clarity"
+  },
+  {
+    "name": "Classic ASP",
+    "urlParam": "classic-asp"
+  },
+  {
+    "name": "Clean",
+    "urlParam": "clean"
+  },
+  {
+    "name": "Click",
+    "urlParam": "click"
+  },
+  {
+    "name": "CLIPS",
+    "urlParam": "clips"
+  },
+  {
+    "name": "Clojure",
+    "urlParam": "clojure"
+  },
+  {
+    "name": "Closure Templates",
+    "urlParam": "closure-templates"
+  },
+  {
+    "name": "Cloud Firestore Security Rules",
+    "urlParam": "cloud-firestore-security-rules"
+  },
+  {
+    "name": "CMake",
+    "urlParam": "cmake"
+  },
+  {
+    "name": "COBOL",
+    "urlParam": "cobol"
+  },
+  {
+    "name": "CODEOWNERS",
+    "urlParam": "codeowners"
+  },
+  {
+    "name": "CodeQL",
+    "urlParam": "codeql"
+  },
+  {
+    "name": "CoffeeScript",
+    "urlParam": "coffeescript"
+  },
+  {
+    "name": "ColdFusion",
+    "urlParam": "coldfusion"
+  },
+  {
+    "name": "ColdFusion CFC",
+    "urlParam": "coldfusion-cfc"
+  },
+  {
+    "name": "COLLADA",
+    "urlParam": "collada"
+  },
+  {
+    "name": "Common Lisp",
+    "urlParam": "common-lisp"
+  },
+  {
+    "name": "Common Workflow Language",
+    "urlParam": "common-workflow-language"
+  },
+  {
+    "name": "Component Pascal",
+    "urlParam": "component-pascal"
+  },
+  {
+    "name": "CoNLL-U",
+    "urlParam": "conll-u"
+  },
+  {
+    "name": "Cool",
+    "urlParam": "cool"
+  },
+  {
+    "name": "Coq",
+    "urlParam": "coq"
+  },
+  {
+    "name": "Cpp-ObjDump",
+    "urlParam": "cpp-objdump"
+  },
+  {
+    "name": "Creole",
+    "urlParam": "creole"
+  },
+  {
+    "name": "Crystal",
+    "urlParam": "crystal"
+  },
+  {
+    "name": "CSON",
+    "urlParam": "cson"
+  },
+  {
+    "name": "Csound",
+    "urlParam": "csound"
+  },
+  {
+    "name": "Csound Document",
+    "urlParam": "csound-document"
+  },
+  {
+    "name": "Csound Score",
+    "urlParam": "csound-score"
+  },
+  {
+    "name": "CSS",
+    "urlParam": "css"
+  },
+  {
+    "name": "CSV",
+    "urlParam": "csv"
+  },
+  {
+    "name": "Cuda",
+    "urlParam": "cuda"
+  },
+  {
+    "name": "CUE",
+    "urlParam": "cue"
+  },
+  {
+    "name": "Cue Sheet",
+    "urlParam": "cue-sheet"
+  },
+  {
+    "name": "cURL Config",
+    "urlParam": "curl-config"
+  },
+  {
+    "name": "Curry",
+    "urlParam": "curry"
+  },
+  {
+    "name": "CWeb",
+    "urlParam": "cweb"
+  },
+  {
+    "name": "Cycript",
+    "urlParam": "cycript"
+  },
+  {
+    "name": "Cypher",
+    "urlParam": "cypher"
+  },
+  {
+    "name": "Cython",
+    "urlParam": "cython"
+  },
+  {
+    "name": "D",
+    "urlParam": "d"
+  },
+  {
+    "name": "D-ObjDump",
+    "urlParam": "d-objdump"
+  },
+  {
+    "name": "Dafny",
+    "urlParam": "dafny"
+  },
+  {
+    "name": "Darcs Patch",
+    "urlParam": "darcs-patch"
+  },
+  {
+    "name": "Dart",
+    "urlParam": "dart"
+  },
+  {
+    "name": "DataWeave",
+    "urlParam": "dataweave"
+  },
+  {
+    "name": "Debian Package Control File",
+    "urlParam": "debian-package-control-file"
+  },
+  {
+    "name": "DenizenScript",
+    "urlParam": "denizenscript"
+  },
+  {
+    "name": "desktop",
+    "urlParam": "desktop"
+  },
+  {
+    "name": "Dhall",
+    "urlParam": "dhall"
+  },
+  {
+    "name": "Diff",
+    "urlParam": "diff"
+  },
+  {
+    "name": "DIGITAL Command Language",
+    "urlParam": "digital-command-language"
+  },
+  {
+    "name": "dircolors",
+    "urlParam": "dircolors"
+  },
+  {
+    "name": "DirectX 3D File",
+    "urlParam": "directx-3d-file"
+  },
+  {
+    "name": "DM",
+    "urlParam": "dm"
+  },
+  {
+    "name": "DNS Zone",
+    "urlParam": "dns-zone"
+  },
+  {
+    "name": "Dockerfile",
+    "urlParam": "dockerfile"
+  },
+  {
+    "name": "Dogescript",
+    "urlParam": "dogescript"
+  },
+  {
+    "name": "DTrace",
+    "urlParam": "dtrace"
+  },
+  {
+    "name": "Dylan",
+    "urlParam": "dylan"
+  },
+  {
+    "name": "E",
+    "urlParam": "e"
+  },
+  {
+    "name": "E-mail",
+    "urlParam": "e-mail"
+  },
+  {
+    "name": "Eagle",
+    "urlParam": "eagle"
+  },
+  {
+    "name": "Earthly",
+    "urlParam": "earthly"
+  },
+  {
+    "name": "Easybuild",
+    "urlParam": "easybuild"
+  },
+  {
+    "name": "EBNF",
+    "urlParam": "ebnf"
+  },
+  {
+    "name": "eC",
+    "urlParam": "ec"
+  },
+  {
+    "name": "Ecere Projects",
+    "urlParam": "ecere-projects"
+  },
+  {
+    "name": "ECL",
+    "urlParam": "ecl"
+  },
+  {
+    "name": "ECLiPSe",
+    "urlParam": "eclipse"
+  },
+  {
+    "name": "Ecmarkup",
+    "urlParam": "ecmarkup"
+  },
+  {
+    "name": "EditorConfig",
+    "urlParam": "editorconfig"
+  },
+  {
+    "name": "Edje Data Collection",
+    "urlParam": "edje-data-collection"
+  },
+  {
+    "name": "edn",
+    "urlParam": "edn"
+  },
+  {
+    "name": "Eiffel",
+    "urlParam": "eiffel"
+  },
+  {
+    "name": "EJS",
+    "urlParam": "ejs"
+  },
+  {
+    "name": "Elixir",
+    "urlParam": "elixir"
+  },
+  {
+    "name": "Elm",
+    "urlParam": "elm"
+  },
+  {
+    "name": "Elvish",
+    "urlParam": "elvish"
+  },
+  {
+    "name": "Emacs Lisp",
+    "urlParam": "emacs-lisp"
+  },
+  {
+    "name": "EmberScript",
+    "urlParam": "emberscript"
+  },
+  {
+    "name": "E-mail",
+    "urlParam": "e-mail"
+  },
+  {
+    "name": "EQ",
+    "urlParam": "eq"
+  },
+  {
+    "name": "Erlang",
+    "urlParam": "erlang"
+  },
+  {
+    "name": "Euphoria",
+    "urlParam": "euphoria"
+  },
+  {
+    "name": "F#",
+    "urlParam": "f%23"
+  },
+  {
+    "name": "F*",
+    "urlParam": "f*"
+  },
+  {
+    "name": "Factor",
+    "urlParam": "factor"
+  },
+  {
+    "name": "Fancy",
+    "urlParam": "fancy"
+  },
+  {
+    "name": "Fantom",
+    "urlParam": "fantom"
+  },
+  {
+    "name": "Faust",
+    "urlParam": "faust"
+  },
+  {
+    "name": "Fennel",
+    "urlParam": "fennel"
+  },
+  {
+    "name": "FIGlet Font",
+    "urlParam": "figlet-font"
+  },
+  {
+    "name": "Filebench WML",
+    "urlParam": "filebench-wml"
+  },
+  {
+    "name": "Filterscript",
+    "urlParam": "filterscript"
+  },
+  {
+    "name": "fish",
+    "urlParam": "fish"
+  },
+  {
+    "name": "Fluent",
+    "urlParam": "fluent"
+  },
+  {
+    "name": "FLUX",
+    "urlParam": "flux"
+  },
+  {
+    "name": "Formatted",
+    "urlParam": "formatted"
+  },
+  {
+    "name": "Forth",
+    "urlParam": "forth"
+  },
+  {
+    "name": "Fortran",
+    "urlParam": "fortran"
+  },
+  {
+    "name": "Fortran Free Form",
+    "urlParam": "fortran-free-form"
+  },
+  {
+    "name": "FreeBasic",
+    "urlParam": "freebasic"
+  },
+  {
+    "name": "FreeMarker",
+    "urlParam": "freemarker"
+  },
+  {
+    "name": "Frege",
+    "urlParam": "frege"
+  },
+  {
+    "name": "Futhark",
+    "urlParam": "futhark"
+  },
+  {
+    "name": "G-code",
+    "urlParam": "g-code"
+  },
+  {
+    "name": "Game Maker Language",
+    "urlParam": "game-maker-language"
+  },
+  {
+    "name": "GAML",
+    "urlParam": "gaml"
+  },
+  {
+    "name": "GAMS",
+    "urlParam": "gams"
+  },
+  {
+    "name": "GAP",
+    "urlParam": "gap"
+  },
+  {
+    "name": "GCC Machine Description",
+    "urlParam": "gcc-machine-description"
+  },
+  {
+    "name": "GDB",
+    "urlParam": "gdb"
+  },
+  {
+    "name": "GDScript",
+    "urlParam": "gdscript"
+  },
+  {
+    "name": "GEDCOM",
+    "urlParam": "gedcom"
+  },
+  {
+    "name": "Gemfile.lock",
+    "urlParam": "gemfile.lock"
+  },
+  {
+    "name": "Gemini",
+    "urlParam": "gemini"
+  },
+  {
+    "name": "Genero",
+    "urlParam": "genero"
+  },
+  {
+    "name": "Genero Forms",
+    "urlParam": "genero-forms"
+  },
+  {
+    "name": "Genie",
+    "urlParam": "genie"
+  },
+  {
+    "name": "Genshi",
+    "urlParam": "genshi"
+  },
+  {
+    "name": "Gentoo Ebuild",
+    "urlParam": "gentoo-ebuild"
+  },
+  {
+    "name": "Gentoo Eclass",
+    "urlParam": "gentoo-eclass"
+  },
+  {
+    "name": "Gerber Image",
+    "urlParam": "gerber-image"
+  },
+  {
+    "name": "Gettext Catalog",
+    "urlParam": "gettext-catalog"
+  },
+  {
+    "name": "Gherkin",
+    "urlParam": "gherkin"
+  },
+  {
+    "name": "Git Attributes",
+    "urlParam": "git-attributes"
+  },
+  {
+    "name": "Git Config",
+    "urlParam": "git-config"
+  },
+  {
+    "name": "Git Revision List",
+    "urlParam": "git-revision-list"
+  },
+  {
+    "name": "Gleam",
+    "urlParam": "gleam"
+  },
+  {
+    "name": "GLSL",
+    "urlParam": "glsl"
+  },
+  {
+    "name": "Glyph",
+    "urlParam": "glyph"
+  },
+  {
+    "name": "Glyph Bitmap Distribution Format",
+    "urlParam": "glyph-bitmap-distribution-format"
+  },
+  {
+    "name": "GN",
+    "urlParam": "gn"
+  },
+  {
+    "name": "Gnuplot",
+    "urlParam": "gnuplot"
+  },
+  {
+    "name": "Go",
+    "urlParam": "go"
+  },
+  {
+    "name": "Go Checksums",
+    "urlParam": "go-checksums"
+  },
+  {
+    "name": "Go Module",
+    "urlParam": "go-module"
+  },
+  {
+    "name": "Golo",
+    "urlParam": "golo"
+  },
+  {
+    "name": "Gosu",
+    "urlParam": "gosu"
+  },
+  {
+    "name": "Grace",
+    "urlParam": "grace"
+  },
+  {
+    "name": "Gradle",
+    "urlParam": "gradle"
+  },
+  {
+    "name": "Grammatical Framework",
+    "urlParam": "grammatical-framework"
+  },
+  {
+    "name": "Graph Modeling Language",
+    "urlParam": "graph-modeling-language"
+  },
+  {
+    "name": "GraphQL",
+    "urlParam": "graphql"
+  },
+  {
+    "name": "Graphviz (DOT)",
+    "urlParam": "graphviz-(dot)"
+  },
+  {
+    "name": "Groovy",
+    "urlParam": "groovy"
+  },
+  {
+    "name": "Groovy Server Pages",
+    "urlParam": "groovy-server-pages"
+  },
+  {
+    "name": "GSC",
+    "urlParam": "gsc"
+  },
+  {
+    "name": "Hack",
+    "urlParam": "hack"
+  },
+  {
+    "name": "Haml",
+    "urlParam": "haml"
+  },
+  {
+    "name": "Handlebars",
+    "urlParam": "handlebars"
+  },
+  {
+    "name": "HAProxy",
+    "urlParam": "haproxy"
+  },
+  {
+    "name": "Harbour",
+    "urlParam": "harbour"
+  },
+  {
+    "name": "Haskell",
+    "urlParam": "haskell"
+  },
+  {
+    "name": "Haxe",
+    "urlParam": "haxe"
+  },
+  {
+    "name": "HCL",
+    "urlParam": "hcl"
+  },
+  {
+    "name": "HiveQL",
+    "urlParam": "hiveql"
+  },
+  {
+    "name": "HLSL",
+    "urlParam": "hlsl"
+  },
+  {
+    "name": "HOCON",
+    "urlParam": "hocon"
+  },
+  {
+    "name": "HolyC",
+    "urlParam": "holyc"
+  },
+  {
+    "name": "hoon",
+    "urlParam": "hoon"
+  },
+  {
+    "name": "HTML",
+    "urlParam": "html"
+  },
+  {
+    "name": "Jinja",
+    "urlParam": "jinja"
+  },
+  {
+    "name": "HTML+ECR",
+    "urlParam": "html+ecr"
+  },
+  {
+    "name": "HTML+EEX",
+    "urlParam": "html+eex"
+  },
+  {
+    "name": "HTML+ERB",
+    "urlParam": "html+erb"
+  },
+  {
+    "name": "HTML+PHP",
+    "urlParam": "html+php"
+  },
+  {
+    "name": "HTML+Razor",
+    "urlParam": "html+razor"
+  },
+  {
+    "name": "HTTP",
+    "urlParam": "http"
+  },
+  {
+    "name": "HXML",
+    "urlParam": "hxml"
+  },
+  {
+    "name": "Hy",
+    "urlParam": "hy"
+  },
+  {
+    "name": "HyPhy",
+    "urlParam": "hyphy"
+  },
+  {
+    "name": "IDL",
+    "urlParam": "idl"
+  },
+  {
+    "name": "Idris",
+    "urlParam": "idris"
+  },
+  {
+    "name": "Ignore List",
+    "urlParam": "ignore-list"
+  },
+  {
+    "name": "IGOR Pro",
+    "urlParam": "igor-pro"
+  },
+  {
+    "name": "ImageJ Macro",
+    "urlParam": "imagej-macro"
+  },
+  {
+    "name": "Imba",
+    "urlParam": "imba"
+  },
+  {
+    "name": "Inform 7",
+    "urlParam": "inform-7"
+  },
+  {
+    "name": "INI",
+    "urlParam": "ini"
+  },
+  {
+    "name": "Ink",
+    "urlParam": "ink"
+  },
+  {
+    "name": "Inno Setup",
+    "urlParam": "inno-setup"
+  },
+  {
+    "name": "Io",
+    "urlParam": "io"
+  },
+  {
+    "name": "Ioke",
+    "urlParam": "ioke"
+  },
+  {
+    "name": "IRC log",
+    "urlParam": "irc-log"
+  },
+  {
+    "name": "Isabelle",
+    "urlParam": "isabelle"
+  },
+  {
+    "name": "Isabelle ROOT",
+    "urlParam": "isabelle-root"
+  },
+  {
+    "name": "J",
+    "urlParam": "j"
+  },
+  {
+    "name": "Janet",
+    "urlParam": "janet"
+  },
+  {
+    "name": "JAR Manifest",
+    "urlParam": "jar-manifest"
+  },
+  {
+    "name": "Jasmin",
+    "urlParam": "jasmin"
+  },
+  {
+    "name": "Java",
+    "urlParam": "java"
+  },
+  {
+    "name": "Java Properties",
+    "urlParam": "java-properties"
+  },
+  {
+    "name": "Java Server Pages",
+    "urlParam": "java-server-pages"
+  },
+  {
+    "name": "JavaScript",
+    "urlParam": "javascript"
+  },
+  {
+    "name": "JavaScript+ERB",
+    "urlParam": "javascript+erb"
+  },
+  {
+    "name": "Jest Snapshot",
+    "urlParam": "jest-snapshot"
+  },
+  {
+    "name": "JetBrains MPS",
+    "urlParam": "jetbrains-mps"
+  },
+  {
+    "name": "JFlex",
+    "urlParam": "jflex"
+  },
+  {
+    "name": "Jinja",
+    "urlParam": "jinja"
+  },
+  {
+    "name": "Jison",
+    "urlParam": "jison"
+  },
+  {
+    "name": "Jison Lex",
+    "urlParam": "jison-lex"
+  },
+  {
+    "name": "Jolie",
+    "urlParam": "jolie"
+  },
+  {
+    "name": "jq",
+    "urlParam": "jq"
+  },
+  {
+    "name": "JSON",
+    "urlParam": "json"
+  },
+  {
+    "name": "JSON with Comments",
+    "urlParam": "json-with-comments"
+  },
+  {
+    "name": "JSON5",
+    "urlParam": "json5"
+  },
+  {
+    "name": "JSONiq",
+    "urlParam": "jsoniq"
+  },
+  {
+    "name": "JSONLD",
+    "urlParam": "jsonld"
+  },
+  {
+    "name": "Jsonnet",
+    "urlParam": "jsonnet"
+  },
+  {
+    "name": "Julia",
+    "urlParam": "julia"
+  },
+  {
+    "name": "Jupyter Notebook",
+    "urlParam": "jupyter-notebook"
+  },
+  {
+    "name": "just",
+    "urlParam": "just"
+  },
+  {
+    "name": "Kaitai Struct",
+    "urlParam": "kaitai-struct"
+  },
+  {
+    "name": "KakouneScript",
+    "urlParam": "kakounescript"
+  },
+  {
+    "name": "KiCad Layout",
+    "urlParam": "kicad-layout"
+  },
+  {
+    "name": "KiCad Legacy Layout",
+    "urlParam": "kicad-legacy-layout"
+  },
+  {
+    "name": "KiCad Schematic",
+    "urlParam": "kicad-schematic"
+  },
+  {
+    "name": "Kit",
+    "urlParam": "kit"
+  },
+  {
+    "name": "Kotlin",
+    "urlParam": "kotlin"
+  },
+  {
+    "name": "KRL",
+    "urlParam": "krl"
+  },
+  {
+    "name": "Kusto",
+    "urlParam": "kusto"
+  },
+  {
+    "name": "kvlang",
+    "urlParam": "kvlang"
+  },
+  {
+    "name": "LabVIEW",
+    "urlParam": "labview"
+  },
+  {
+    "name": "Lark",
+    "urlParam": "lark"
+  },
+  {
+    "name": "Lasso",
+    "urlParam": "lasso"
+  },
+  {
+    "name": "Latte",
+    "urlParam": "latte"
+  },
+  {
+    "name": "Lean",
+    "urlParam": "lean"
+  },
+  {
+    "name": "Less",
+    "urlParam": "less"
+  },
+  {
+    "name": "Lex",
+    "urlParam": "lex"
+  },
+  {
+    "name": "LFE",
+    "urlParam": "lfe"
+  },
+  {
+    "name": "LigoLANG",
+    "urlParam": "ligolang"
+  },
+  {
+    "name": "LilyPond",
+    "urlParam": "lilypond"
+  },
+  {
+    "name": "Limbo",
+    "urlParam": "limbo"
+  },
+  {
+    "name": "Linker Script",
+    "urlParam": "linker-script"
+  },
+  {
+    "name": "Linux Kernel Module",
+    "urlParam": "linux-kernel-module"
+  },
+  {
+    "name": "Liquid",
+    "urlParam": "liquid"
+  },
+  {
+    "name": "Literate Agda",
+    "urlParam": "literate-agda"
+  },
+  {
+    "name": "Literate CoffeeScript",
+    "urlParam": "literate-coffeescript"
+  },
+  {
+    "name": "Literate Haskell",
+    "urlParam": "literate-haskell"
+  },
+  {
+    "name": "LiveScript",
+    "urlParam": "livescript"
+  },
+  {
+    "name": "LLVM",
+    "urlParam": "llvm"
+  },
+  {
+    "name": "Logos",
+    "urlParam": "logos"
+  },
+  {
+    "name": "Logtalk",
+    "urlParam": "logtalk"
+  },
+  {
+    "name": "LOLCODE",
+    "urlParam": "lolcode"
+  },
+  {
+    "name": "LookML",
+    "urlParam": "lookml"
+  },
+  {
+    "name": "LoomScript",
+    "urlParam": "loomscript"
+  },
+  {
+    "name": "LSL",
+    "urlParam": "lsl"
+  },
+  {
+    "name": "LTspice Symbol",
+    "urlParam": "ltspice-symbol"
+  },
+  {
+    "name": "Lua",
+    "urlParam": "lua"
+  },
+  {
+    "name": "M",
+    "urlParam": "m"
+  },
+  {
+    "name": "M4",
+    "urlParam": "m4"
+  },
+  {
+    "name": "M4Sugar",
+    "urlParam": "m4sugar"
+  },
+  {
+    "name": "Macaulay2",
+    "urlParam": "macaulay2"
+  },
+  {
+    "name": "Makefile",
+    "urlParam": "makefile"
+  },
+  {
+    "name": "Mako",
+    "urlParam": "mako"
+  },
+  {
+    "name": "Markdown",
+    "urlParam": "markdown"
+  },
+  {
+    "name": "Marko",
+    "urlParam": "marko"
+  },
+  {
+    "name": "Mask",
+    "urlParam": "mask"
+  },
+  {
+    "name": "Mathematica",
+    "urlParam": "mathematica"
+  },
+  {
+    "name": "MATLAB",
+    "urlParam": "matlab"
+  },
+  {
+    "name": "Maven POM",
+    "urlParam": "maven-pom"
+  },
+  {
+    "name": "Max",
+    "urlParam": "max"
+  },
+  {
+    "name": "MAXScript",
+    "urlParam": "maxscript"
+  },
+  {
+    "name": "mcfunction",
+    "urlParam": "mcfunction"
+  },
+  {
+    "name": "Wikitext",
+    "urlParam": "wikitext"
+  },
+  {
+    "name": "Mercury",
+    "urlParam": "mercury"
+  },
+  {
+    "name": "Mermaid",
+    "urlParam": "mermaid"
+  },
+  {
+    "name": "Meson",
+    "urlParam": "meson"
+  },
+  {
+    "name": "Metal",
+    "urlParam": "metal"
+  },
+  {
+    "name": "Microsoft Developer Studio Project",
+    "urlParam": "microsoft-developer-studio-project"
+  },
+  {
+    "name": "Microsoft Visual Studio Solution",
+    "urlParam": "microsoft-visual-studio-solution"
+  },
+  {
+    "name": "MiniD",
+    "urlParam": "minid"
+  },
+  {
+    "name": "MiniYAML",
+    "urlParam": "miniyaml"
+  },
+  {
+    "name": "Mint",
+    "urlParam": "mint"
+  },
+  {
+    "name": "Mirah",
+    "urlParam": "mirah"
+  },
+  {
+    "name": "mIRC Script",
+    "urlParam": "mirc-script"
+  },
+  {
+    "name": "MLIR",
+    "urlParam": "mlir"
+  },
+  {
+    "name": "Modelica",
+    "urlParam": "modelica"
+  },
+  {
+    "name": "Modula-2",
+    "urlParam": "modula-2"
+  },
+  {
+    "name": "Modula-3",
+    "urlParam": "modula-3"
+  },
+  {
+    "name": "Module Management System",
+    "urlParam": "module-management-system"
+  },
+  {
+    "name": "Monkey",
+    "urlParam": "monkey"
+  },
+  {
+    "name": "Monkey C",
+    "urlParam": "monkey-c"
+  },
+  {
+    "name": "Moocode",
+    "urlParam": "moocode"
+  },
+  {
+    "name": "MoonScript",
+    "urlParam": "moonscript"
+  },
+  {
+    "name": "Motoko",
+    "urlParam": "motoko"
+  },
+  {
+    "name": "Motorola 68K Assembly",
+    "urlParam": "motorola-68k-assembly"
+  },
+  {
+    "name": "Move",
+    "urlParam": "move"
+  },
+  {
+    "name": "MQL4",
+    "urlParam": "mql4"
+  },
+  {
+    "name": "MQL5",
+    "urlParam": "mql5"
+  },
+  {
+    "name": "MTML",
+    "urlParam": "mtml"
+  },
+  {
+    "name": "MUF",
+    "urlParam": "muf"
+  },
+  {
+    "name": "mupad",
+    "urlParam": "mupad"
+  },
+  {
+    "name": "Muse",
+    "urlParam": "muse"
+  },
+  {
+    "name": "Mustache",
+    "urlParam": "mustache"
+  },
+  {
+    "name": "Myghty",
+    "urlParam": "myghty"
+  },
+  {
+    "name": "nanorc",
+    "urlParam": "nanorc"
+  },
+  {
+    "name": "Nasal",
+    "urlParam": "nasal"
+  },
+  {
+    "name": "NASL",
+    "urlParam": "nasl"
+  },
+  {
+    "name": "NCL",
+    "urlParam": "ncl"
+  },
+  {
+    "name": "Nearley",
+    "urlParam": "nearley"
+  },
+  {
+    "name": "Nemerle",
+    "urlParam": "nemerle"
+  },
+  {
+    "name": "NEON",
+    "urlParam": "neon"
+  },
+  {
+    "name": "nesC",
+    "urlParam": "nesc"
+  },
+  {
+    "name": "NetLinx",
+    "urlParam": "netlinx"
+  },
+  {
+    "name": "NetLinx+ERB",
+    "urlParam": "netlinx+erb"
+  },
+  {
+    "name": "NetLogo",
+    "urlParam": "netlogo"
+  },
+  {
+    "name": "NewLisp",
+    "urlParam": "newlisp"
+  },
+  {
+    "name": "Nextflow",
+    "urlParam": "nextflow"
+  },
+  {
+    "name": "Nginx",
+    "urlParam": "nginx"
+  },
+  {
+    "name": "Nim",
+    "urlParam": "nim"
+  },
+  {
+    "name": "Ninja",
+    "urlParam": "ninja"
+  },
+  {
+    "name": "Nit",
+    "urlParam": "nit"
+  },
+  {
+    "name": "Nix",
+    "urlParam": "nix"
+  },
+  {
+    "name": "NL",
+    "urlParam": "nl"
+  },
+  {
+    "name": "NPM Config",
+    "urlParam": "npm-config"
+  },
+  {
+    "name": "NSIS",
+    "urlParam": "nsis"
+  },
+  {
+    "name": "Nu",
+    "urlParam": "nu"
+  },
+  {
+    "name": "NumPy",
+    "urlParam": "numpy"
+  },
+  {
+    "name": "Nunjucks",
+    "urlParam": "nunjucks"
+  },
+  {
+    "name": "NWScript",
+    "urlParam": "nwscript"
+  },
+  {
+    "name": "OASv2-json",
+    "urlParam": "oasv2-json"
+  },
+  {
+    "name": "OASv2-yaml",
+    "urlParam": "oasv2-yaml"
+  },
+  {
+    "name": "OASv3-json",
+    "urlParam": "oasv3-json"
+  },
+  {
+    "name": "OASv3-yaml",
+    "urlParam": "oasv3-yaml"
+  },
+  {
+    "name": "ObjDump",
+    "urlParam": "objdump"
+  },
+  {
+    "name": "Object Data Instance Notation",
+    "urlParam": "object-data-instance-notation"
+  },
+  {
+    "name": "Objective-C",
+    "urlParam": "objective-c"
+  },
+  {
+    "name": "Objective-C++",
+    "urlParam": "objective-c++"
+  },
+  {
+    "name": "Objective-J",
+    "urlParam": "objective-j"
+  },
+  {
+    "name": "ObjectScript",
+    "urlParam": "objectscript"
+  },
+  {
+    "name": "OCaml",
+    "urlParam": "ocaml"
+  },
+  {
+    "name": "Odin",
+    "urlParam": "odin"
+  },
+  {
+    "name": "Omgrofl",
+    "urlParam": "omgrofl"
+  },
+  {
+    "name": "ooc",
+    "urlParam": "ooc"
+  },
+  {
+    "name": "Opa",
+    "urlParam": "opa"
+  },
+  {
+    "name": "Opal",
+    "urlParam": "opal"
+  },
+  {
+    "name": "Open Policy Agent",
+    "urlParam": "open-policy-agent"
+  },
+  {
+    "name": "OpenAPI Specification v2",
+    "urlParam": "openapi-specification-v2"
+  },
+  {
+    "name": "OpenAPI Specification v3",
+    "urlParam": "openapi-specification-v3"
+  },
+  {
+    "name": "OpenCL",
+    "urlParam": "opencl"
+  },
+  {
+    "name": "OpenEdge ABL",
+    "urlParam": "openedge-abl"
+  },
+  {
+    "name": "OpenQASM",
+    "urlParam": "openqasm"
+  },
+  {
+    "name": "OpenRC runscript",
+    "urlParam": "openrc-runscript"
+  },
+  {
+    "name": "OpenSCAD",
+    "urlParam": "openscad"
+  },
+  {
+    "name": "OpenStep Property List",
+    "urlParam": "openstep-property-list"
+  },
+  {
+    "name": "OpenType Feature File",
+    "urlParam": "opentype-feature-file"
+  },
+  {
+    "name": "Option List",
+    "urlParam": "option-list"
+  },
+  {
+    "name": "Org",
+    "urlParam": "org"
+  },
+  {
+    "name": "Ox",
+    "urlParam": "ox"
+  },
+  {
+    "name": "Oxygene",
+    "urlParam": "oxygene"
+  },
+  {
+    "name": "Oz",
+    "urlParam": "oz"
+  },
+  {
+    "name": "P4",
+    "urlParam": "p4"
+  },
+  {
+    "name": "Pan",
+    "urlParam": "pan"
+  },
+  {
+    "name": "Papyrus",
+    "urlParam": "papyrus"
+  },
+  {
+    "name": "Parrot",
+    "urlParam": "parrot"
+  },
+  {
+    "name": "Parrot Assembly",
+    "urlParam": "parrot-assembly"
+  },
+  {
+    "name": "Parrot Internal Representation",
+    "urlParam": "parrot-internal-representation"
+  },
+  {
+    "name": "Pascal",
+    "urlParam": "pascal"
+  },
+  {
+    "name": "Pawn",
+    "urlParam": "pawn"
+  },
+  {
+    "name": "PDDL",
+    "urlParam": "pddl"
+  },
+  {
+    "name": "PEG.js",
+    "urlParam": "peg.js"
+  },
+  {
+    "name": "Pep8",
+    "urlParam": "pep8"
+  },
+  {
+    "name": "Perl",
+    "urlParam": "perl"
+  },
+  {
+    "name": "PHP",
+    "urlParam": "php"
+  },
+  {
+    "name": "Pic",
+    "urlParam": "pic"
+  },
+  {
+    "name": "Pickle",
+    "urlParam": "pickle"
+  },
+  {
+    "name": "PicoLisp",
+    "urlParam": "picolisp"
+  },
+  {
+    "name": "PigLatin",
+    "urlParam": "piglatin"
+  },
+  {
+    "name": "Pike",
+    "urlParam": "pike"
+  },
+  {
+    "name": "PlantUML",
+    "urlParam": "plantuml"
+  },
+  {
+    "name": "PLpgSQL",
+    "urlParam": "plpgsql"
+  },
+  {
+    "name": "PLSQL",
+    "urlParam": "plsql"
+  },
+  {
+    "name": "Pod",
+    "urlParam": "pod"
+  },
+  {
+    "name": "Pod 6",
+    "urlParam": "pod-6"
+  },
+  {
+    "name": "PogoScript",
+    "urlParam": "pogoscript"
+  },
+  {
+    "name": "Polar",
+    "urlParam": "polar"
+  },
+  {
+    "name": "Pony",
+    "urlParam": "pony"
+  },
+  {
+    "name": "Portugol",
+    "urlParam": "portugol"
+  },
+  {
+    "name": "PostCSS",
+    "urlParam": "postcss"
+  },
+  {
+    "name": "PostScript",
+    "urlParam": "postscript"
+  },
+  {
+    "name": "POV-Ray SDL",
+    "urlParam": "pov-ray-sdl"
+  },
+  {
+    "name": "PowerBuilder",
+    "urlParam": "powerbuilder"
+  },
+  {
+    "name": "PowerShell",
+    "urlParam": "powershell"
+  },
+  {
+    "name": "Prisma",
+    "urlParam": "prisma"
+  },
+  {
+    "name": "Processing",
+    "urlParam": "processing"
+  },
+  {
+    "name": "Procfile",
+    "urlParam": "procfile"
+  },
+  {
+    "name": "Proguard",
+    "urlParam": "proguard"
+  },
+  {
+    "name": "Prolog",
+    "urlParam": "prolog"
+  },
+  {
+    "name": "Promela",
+    "urlParam": "promela"
+  },
+  {
+    "name": "Propeller Spin",
+    "urlParam": "propeller-spin"
+  },
+  {
+    "name": "Protocol Buffer",
+    "urlParam": "protocol-buffer"
+  },
+  {
+    "name": "Protocol Buffer Text Format",
+    "urlParam": "protocol-buffer-text-format"
+  },
+  {
+    "name": "Public Key",
+    "urlParam": "public-key"
+  },
+  {
+    "name": "Pug",
+    "urlParam": "pug"
+  },
+  {
+    "name": "Puppet",
+    "urlParam": "puppet"
+  },
+  {
+    "name": "Pure Data",
+    "urlParam": "pure-data"
+  },
+  {
+    "name": "PureBasic",
+    "urlParam": "purebasic"
+  },
+  {
+    "name": "PureScript",
+    "urlParam": "purescript"
+  },
+  {
+    "name": "Python",
+    "urlParam": "python"
+  },
+  {
+    "name": "Python console",
+    "urlParam": "python-console"
+  },
+  {
+    "name": "Python traceback",
+    "urlParam": "python-traceback"
+  },
+  {
+    "name": "q",
+    "urlParam": "q"
+  },
+  {
+    "name": "Q#",
+    "urlParam": "q%23"
+  },
+  {
+    "name": "QMake",
+    "urlParam": "qmake"
+  },
+  {
+    "name": "QML",
+    "urlParam": "qml"
+  },
+  {
+    "name": "Qt Script",
+    "urlParam": "qt-script"
+  },
+  {
+    "name": "Quake",
+    "urlParam": "quake"
+  },
+  {
+    "name": "R",
+    "urlParam": "r"
+  },
+  {
+    "name": "Racket",
+    "urlParam": "racket"
+  },
+  {
+    "name": "Ragel",
+    "urlParam": "ragel"
+  },
+  {
+    "name": "Raku",
+    "urlParam": "raku"
+  },
+  {
+    "name": "RAML",
+    "urlParam": "raml"
+  },
+  {
+    "name": "Rascal",
+    "urlParam": "rascal"
+  },
+  {
+    "name": "Raw token data",
+    "urlParam": "raw-token-data"
+  },
+  {
+    "name": "RDoc",
+    "urlParam": "rdoc"
+  },
+  {
+    "name": "Readline Config",
+    "urlParam": "readline-config"
+  },
+  {
+    "name": "REALbasic",
+    "urlParam": "realbasic"
+  },
+  {
+    "name": "Reason",
+    "urlParam": "reason"
+  },
+  {
+    "name": "ReasonLIGO",
+    "urlParam": "reasonligo"
+  },
+  {
+    "name": "Rebol",
+    "urlParam": "rebol"
+  },
+  {
+    "name": "Record Jar",
+    "urlParam": "record-jar"
+  },
+  {
+    "name": "Red",
+    "urlParam": "red"
+  },
+  {
+    "name": "Redcode",
+    "urlParam": "redcode"
+  },
+  {
+    "name": "Redirect Rules",
+    "urlParam": "redirect-rules"
+  },
+  {
+    "name": "Regular Expression",
+    "urlParam": "regular-expression"
+  },
+  {
+    "name": "Ren'Py",
+    "urlParam": "ren'py"
+  },
+  {
+    "name": "RenderScript",
+    "urlParam": "renderscript"
+  },
+  {
+    "name": "ReScript",
+    "urlParam": "rescript"
+  },
+  {
+    "name": "reStructuredText",
+    "urlParam": "restructuredtext"
+  },
+  {
+    "name": "REXX",
+    "urlParam": "rexx"
+  },
+  {
+    "name": "Rich Text Format",
+    "urlParam": "rich-text-format"
+  },
+  {
+    "name": "Ring",
+    "urlParam": "ring"
+  },
+  {
+    "name": "Riot",
+    "urlParam": "riot"
+  },
+  {
+    "name": "RMarkdown",
+    "urlParam": "rmarkdown"
+  },
+  {
+    "name": "RobotFramework",
+    "urlParam": "robotframework"
+  },
+  {
+    "name": "robots.txt",
+    "urlParam": "robots.txt"
+  },
+  {
+    "name": "Roff",
+    "urlParam": "roff"
+  },
+  {
+    "name": "Roff Manpage",
+    "urlParam": "roff-manpage"
+  },
+  {
+    "name": "Rouge",
+    "urlParam": "rouge"
+  },
+  {
+    "name": "RouterOS Script",
+    "urlParam": "routeros-script"
+  },
+  {
+    "name": "RPC",
+    "urlParam": "rpc"
+  },
+  {
+    "name": "RPGLE",
+    "urlParam": "rpgle"
+  },
+  {
+    "name": "RPM Spec",
+    "urlParam": "rpm-spec"
+  },
+  {
+    "name": "Ruby",
+    "urlParam": "ruby"
+  },
+  {
+    "name": "RUNOFF",
+    "urlParam": "runoff"
+  },
+  {
+    "name": "Rust",
+    "urlParam": "rust"
+  },
+  {
+    "name": "Sage",
+    "urlParam": "sage"
+  },
+  {
+    "name": "SaltStack",
+    "urlParam": "saltstack"
+  },
+  {
+    "name": "SAS",
+    "urlParam": "sas"
+  },
+  {
+    "name": "Sass",
+    "urlParam": "sass"
+  },
+  {
+    "name": "Scala",
+    "urlParam": "scala"
+  },
+  {
+    "name": "Scaml",
+    "urlParam": "scaml"
+  },
+  {
+    "name": "Scenic",
+    "urlParam": "scenic"
+  },
+  {
+    "name": "Scheme",
+    "urlParam": "scheme"
+  },
+  {
+    "name": "Scilab",
+    "urlParam": "scilab"
+  },
+  {
+    "name": "SCSS",
+    "urlParam": "scss"
+  },
+  {
+    "name": "sed",
+    "urlParam": "sed"
+  },
+  {
+    "name": "Self",
+    "urlParam": "self"
+  },
+  {
+    "name": "SELinux Policy",
+    "urlParam": "selinux-policy"
+  },
+  {
+    "name": "ShaderLab",
+    "urlParam": "shaderlab"
+  },
+  {
+    "name": "Shell",
+    "urlParam": "shell"
+  },
+  {
+    "name": "ShellCheck Config",
+    "urlParam": "shellcheck-config"
+  },
+  {
+    "name": "ShellSession",
+    "urlParam": "shellsession"
+  },
+  {
+    "name": "Shen",
+    "urlParam": "shen"
+  },
+  {
+    "name": "Sieve",
+    "urlParam": "sieve"
+  },
+  {
+    "name": "Simple File Verification",
+    "urlParam": "simple-file-verification"
+  },
+  {
+    "name": "Singularity",
+    "urlParam": "singularity"
+  },
+  {
+    "name": "Slash",
+    "urlParam": "slash"
+  },
+  {
+    "name": "Slice",
+    "urlParam": "slice"
+  },
+  {
+    "name": "Slim",
+    "urlParam": "slim"
+  },
+  {
+    "name": "Smali",
+    "urlParam": "smali"
+  },
+  {
+    "name": "Smalltalk",
+    "urlParam": "smalltalk"
+  },
+  {
+    "name": "Smarty",
+    "urlParam": "smarty"
+  },
+  {
+    "name": "Smithy",
+    "urlParam": "smithy"
+  },
+  {
+    "name": "SmPL",
+    "urlParam": "smpl"
+  },
+  {
+    "name": "SMT",
+    "urlParam": "smt"
+  },
+  {
+    "name": "Solidity",
+    "urlParam": "solidity"
+  },
+  {
+    "name": "Soong",
+    "urlParam": "soong"
+  },
+  {
+    "name": "SourcePawn",
+    "urlParam": "sourcepawn"
+  },
+  {
+    "name": "SPARQL",
+    "urlParam": "sparql"
+  },
+  {
+    "name": "Spline Font Database",
+    "urlParam": "spline-font-database"
+  },
+  {
+    "name": "SQF",
+    "urlParam": "sqf"
+  },
+  {
+    "name": "SQL",
+    "urlParam": "sql"
+  },
+  {
+    "name": "SQLPL",
+    "urlParam": "sqlpl"
+  },
+  {
+    "name": "Squirrel",
+    "urlParam": "squirrel"
+  },
+  {
+    "name": "SRecode Template",
+    "urlParam": "srecode-template"
+  },
+  {
+    "name": "SSH Config",
+    "urlParam": "ssh-config"
+  },
+  {
+    "name": "Stan",
+    "urlParam": "stan"
+  },
+  {
+    "name": "Standard ML",
+    "urlParam": "standard-ml"
+  },
+  {
+    "name": "STAR",
+    "urlParam": "star"
+  },
+  {
+    "name": "Starlark",
+    "urlParam": "starlark"
+  },
+  {
+    "name": "Stata",
+    "urlParam": "stata"
+  },
+  {
+    "name": "STL",
+    "urlParam": "stl"
+  },
+  {
+    "name": "STON",
+    "urlParam": "ston"
+  },
+  {
+    "name": "StringTemplate",
+    "urlParam": "stringtemplate"
+  },
+  {
+    "name": "Stylus",
+    "urlParam": "stylus"
+  },
+  {
+    "name": "SubRip Text",
+    "urlParam": "subrip-text"
+  },
+  {
+    "name": "SugarSS",
+    "urlParam": "sugarss"
+  },
+  {
+    "name": "SuperCollider",
+    "urlParam": "supercollider"
+  },
+  {
+    "name": "Svelte",
+    "urlParam": "svelte"
+  },
+  {
+    "name": "SVG",
+    "urlParam": "svg"
+  },
+  {
+    "name": "Swift",
+    "urlParam": "swift"
+  },
+  {
+    "name": "SWIG",
+    "urlParam": "swig"
+  },
+  {
+    "name": "SystemVerilog",
+    "urlParam": "systemverilog"
+  },
+  {
+    "name": "Talon",
+    "urlParam": "talon"
+  },
+  {
+    "name": "Tcl",
+    "urlParam": "tcl"
+  },
+  {
+    "name": "Tcsh",
+    "urlParam": "tcsh"
+  },
+  {
+    "name": "Tea",
+    "urlParam": "tea"
+  },
+  {
+    "name": "Terra",
+    "urlParam": "terra"
+  },
+  {
+    "name": "TeX",
+    "urlParam": "tex"
+  },
+  {
+    "name": "Texinfo",
+    "urlParam": "texinfo"
+  },
+  {
+    "name": "Text",
+    "urlParam": "text"
+  },
+  {
+    "name": "Textile",
+    "urlParam": "textile"
+  },
+  {
+    "name": "TextMate Properties",
+    "urlParam": "textmate-properties"
+  },
+  {
+    "name": "Thrift",
+    "urlParam": "thrift"
+  },
+  {
+    "name": "TI Program",
+    "urlParam": "ti-program"
+  },
+  {
+    "name": "TLA",
+    "urlParam": "tla"
+  },
+  {
+    "name": "TOML",
+    "urlParam": "toml"
+  },
+  {
+    "name": "TSQL",
+    "urlParam": "tsql"
+  },
+  {
+    "name": "TSV",
+    "urlParam": "tsv"
+  },
+  {
+    "name": "TSX",
+    "urlParam": "tsx"
+  },
+  {
+    "name": "Turing",
+    "urlParam": "turing"
+  },
+  {
+    "name": "Turtle",
+    "urlParam": "turtle"
+  },
+  {
+    "name": "Twig",
+    "urlParam": "twig"
+  },
+  {
+    "name": "TXL",
+    "urlParam": "txl"
+  },
+  {
+    "name": "Type Language",
+    "urlParam": "type-language"
+  },
+  {
+    "name": "TypeScript",
+    "urlParam": "typescript"
+  },
+  {
+    "name": "Unified Parallel C",
+    "urlParam": "unified-parallel-c"
+  },
+  {
+    "name": "Unity3D Asset",
+    "urlParam": "unity3d-asset"
+  },
+  {
+    "name": "Unix Assembly",
+    "urlParam": "unix-assembly"
+  },
+  {
+    "name": "Uno",
+    "urlParam": "uno"
+  },
+  {
+    "name": "UnrealScript",
+    "urlParam": "unrealscript"
+  },
+  {
+    "name": "UrWeb",
+    "urlParam": "urweb"
+  },
+  {
+    "name": "V",
+    "urlParam": "v"
+  },
+  {
+    "name": "Vala",
+    "urlParam": "vala"
+  },
+  {
+    "name": "Valve Data Format",
+    "urlParam": "valve-data-format"
+  },
+  {
+    "name": "VBA",
+    "urlParam": "vba"
+  },
+  {
+    "name": "VBScript",
+    "urlParam": "vbscript"
+  },
+  {
+    "name": "VCL",
+    "urlParam": "vcl"
+  },
+  {
+    "name": "Velocity Template Language",
+    "urlParam": "velocity-template-language"
+  },
+  {
+    "name": "Verilog",
+    "urlParam": "verilog"
+  },
+  {
+    "name": "VHDL",
+    "urlParam": "vhdl"
+  },
+  {
+    "name": "Vim Help File",
+    "urlParam": "vim-help-file"
+  },
+  {
+    "name": "Vim Script",
+    "urlParam": "vim-script"
+  },
+  {
+    "name": "Vim Snippet",
+    "urlParam": "vim-snippet"
+  },
+  {
+    "name": "Visual Basic .NET",
+    "urlParam": "visual-basic-.net"
+  },
+  {
+    "name": "Visual Basic .NET",
+    "urlParam": "visual-basic-.net"
+  },
+  {
+    "name": "Visual Basic 6.0",
+    "urlParam": "visual-basic-6.0"
+  },
+  {
+    "name": "Volt",
+    "urlParam": "volt"
+  },
+  {
+    "name": "Vue",
+    "urlParam": "vue"
+  },
+  {
+    "name": "Vyper",
+    "urlParam": "vyper"
+  },
+  {
+    "name": "Wavefront Material",
+    "urlParam": "wavefront-material"
+  },
+  {
+    "name": "Wavefront Object",
+    "urlParam": "wavefront-object"
+  },
+  {
+    "name": "wdl",
+    "urlParam": "wdl"
+  },
+  {
+    "name": "Web Ontology Language",
+    "urlParam": "web-ontology-language"
+  },
+  {
+    "name": "WebAssembly",
+    "urlParam": "webassembly"
+  },
+  {
+    "name": "WebIDL",
+    "urlParam": "webidl"
+  },
+  {
+    "name": "WebVTT",
+    "urlParam": "webvtt"
+  },
+  {
+    "name": "Wget Config",
+    "urlParam": "wget-config"
+  },
+  {
+    "name": "Whiley",
+    "urlParam": "whiley"
+  },
+  {
+    "name": "Wikitext",
+    "urlParam": "wikitext"
+  },
+  {
+    "name": "Win32 Message File",
+    "urlParam": "win32-message-file"
+  },
+  {
+    "name": "Windows Registry Entries",
+    "urlParam": "windows-registry-entries"
+  },
+  {
+    "name": "wisp",
+    "urlParam": "wisp"
+  },
+  {
+    "name": "Witcher Script",
+    "urlParam": "witcher-script"
+  },
+  {
+    "name": "Wollok",
+    "urlParam": "wollok"
+  },
+  {
+    "name": "World of Warcraft Addon Data",
+    "urlParam": "world-of-warcraft-addon-data"
+  },
+  {
+    "name": "Wren",
+    "urlParam": "wren"
+  },
+  {
+    "name": "X BitMap",
+    "urlParam": "x-bitmap"
+  },
+  {
+    "name": "X Font Directory Index",
+    "urlParam": "x-font-directory-index"
+  },
+  {
+    "name": "X PixMap",
+    "urlParam": "x-pixmap"
+  },
+  {
+    "name": "X10",
+    "urlParam": "x10"
+  },
+  {
+    "name": "xBase",
+    "urlParam": "xbase"
+  },
+  {
+    "name": "XC",
+    "urlParam": "xc"
+  },
+  {
+    "name": "XCompose",
+    "urlParam": "xcompose"
+  },
+  {
+    "name": "XML",
+    "urlParam": "xml"
+  },
+  {
+    "name": "XML Property List",
+    "urlParam": "xml-property-list"
+  },
+  {
+    "name": "Xojo",
+    "urlParam": "xojo"
+  },
+  {
+    "name": "Xonsh",
+    "urlParam": "xonsh"
+  },
+  {
+    "name": "XPages",
+    "urlParam": "xpages"
+  },
+  {
+    "name": "XProc",
+    "urlParam": "xproc"
+  },
+  {
+    "name": "XQuery",
+    "urlParam": "xquery"
+  },
+  {
+    "name": "XS",
+    "urlParam": "xs"
+  },
+  {
+    "name": "XSLT",
+    "urlParam": "xslt"
+  },
+  {
+    "name": "Xtend",
+    "urlParam": "xtend"
+  },
+  {
+    "name": "Yacc",
+    "urlParam": "yacc"
+  },
+  {
+    "name": "YAML",
+    "urlParam": "yaml"
+  },
+  {
+    "name": "YANG",
+    "urlParam": "yang"
+  },
+  {
+    "name": "YARA",
+    "urlParam": "yara"
+  },
+  {
+    "name": "YASnippet",
+    "urlParam": "yasnippet"
+  },
+  {
+    "name": "Yul",
+    "urlParam": "yul"
+  },
+  {
+    "name": "ZAP",
+    "urlParam": "zap"
+  },
+  {
+    "name": "Zeek",
+    "urlParam": "zeek"
+  },
+  {
+    "name": "ZenScript",
+    "urlParam": "zenscript"
+  },
+  {
+    "name": "Zephir",
+    "urlParam": "zephir"
+  },
+  {
+    "name": "Zig",
+    "urlParam": "zig"
+  },
+  {
+    "name": "ZIL",
+    "urlParam": "zil"
+  },
+  {
+    "name": "Zimpl",
+    "urlParam": "zimpl"
+  }
+]

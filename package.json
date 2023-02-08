@@ -1,0 +1,28 @@
+{
+  "name": "gh-trending-api",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zenghongtu/gh-trending-api.git",
+  "author": "zenghongtu <zenghongtu@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "rm -fr dist && tsc",
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.2.0",
+    "@fastify/sensible": "^5.2.0",
+    "cheerio": "1.0.0-rc.12",
+    "fastify": "^4.12.0",
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "@types/node": "^18.13.0",
+    "tsx": "^3.12.3",
+    "typescript": "^4.9.5"
+  }
+}
