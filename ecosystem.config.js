@@ -21,16 +21,17 @@ module.exports = {
       script: "npm",
       automation: false,
       args: "run start",
-      exec_mode: "cluster", // default fork
-      instances: 2, //"max",
+      exec_mode: "fork", // default fork
+      instances: 1, //"max",
       kill_timeout: 4000,
       wait_ready: true,
       autorestart: true,
       watch: false,
-      max_memory_restart: "256MB",
+      max_memory_restart: "256M",
       log_date_format: "YYYY-MM-DD HH:mm Z",
       env: {
         NODE_ENV: "production",
+        PORT: 7668,
       },
     },
   ],
