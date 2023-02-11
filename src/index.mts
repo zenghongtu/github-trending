@@ -1,4 +1,4 @@
-import { createApp } from "./app";
+import { createApp } from "./app.mjs";
 
 const port = parseInt(process.env.PORT || "3000", 10);
 const host = process.env.HOST || "localhost";

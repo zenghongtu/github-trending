@@ -1,7 +1,7 @@
 import Fastify, { FastifyRequest, FastifyServerOptions } from "fastify";
 import cors from "@fastify/cors";
 import sensible from "@fastify/sensible";
-import { fetchDevelopers, fetchRepositories } from "./helpers";
+import { fetchDevelopers, fetchRepositories } from "./helpers.mjs";
 
 export const createApp = (options: FastifyServerOptions = {}) => {
   const app = Fastify({

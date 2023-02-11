@@ -1,6 +1,8 @@
 import { load } from "cheerio";
 import fetch from "node-fetch";
-import { omitBy, isNil } from "lodash";
+import Lodash from "lodash";
+
+const { omitBy, isNil } = Lodash;
 
 const GITHUB_URL = "https://github.com";
 

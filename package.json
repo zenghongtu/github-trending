@@ -9,7 +9,7 @@
   "scripts": {
     "build": "rm -fr dist && tsc",
     "dev": "tsx watch src/index.ts",
-    "start": "node dist/index"
+    "start": "node dist/index.mjs"
   },
   "dependencies": {
     "@fastify/cors": "^8.2.0",
