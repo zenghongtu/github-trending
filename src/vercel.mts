@@ -1,5 +1,5 @@
 import { VercelRequest, VercelResponse } from "@vercel/node";
-import { createApp } from "./src/app";
+import { createApp } from "./app.mjs";
 
 const app = createApp();
 
